@@ -1,0 +1,52 @@
+.foto{
+    width: 351px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 113px;
+    padding-top: 0;
+}
+
+
+.all{
+    margin-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+#first-blue{
+    width: 37%;
+    background-color: #7EE5DA;
+    float: left;
+    height: 74px; 
+    margin-right: 2px;
+}    
+#second-blue{
+    width: 20%;
+    float: left;
+    height: 74px; 
+    background-color: #70CCC2;
+}
+#third-blue{
+    float: right;
+    position: relative;
+    width: 570px;
+
+    height: 74px;  
+    background-color: #62B3AA;
+}
+.bottom{
+    
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.top{
+    background-color: #eeee;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+   
+}
